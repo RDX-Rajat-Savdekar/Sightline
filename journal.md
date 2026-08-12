@@ -30,3 +30,5 @@ Running log of owner ↔ agent work for session continuity. Newest entries at th
 3. Ingest OTLP traces → persist → query one trace (first end-to-end slice)
 
 **Open / do not claim yet:** Live demo, Loom, measured numbers, resume bullets with metrics.
+
+**Follow-up same day:** Initial commit pushed; public repo created at https://github.com/RDX-Rajat-Savdekar/Sightline (`main` @ `fed88e9`).
